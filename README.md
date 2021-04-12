@@ -15,7 +15,7 @@
 <code><img height="30" src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"></code>
 <code><img height="30" src="https://img.shields.io/badge/Npm-282C34?logo=npm"></code>
 <code><img height="30" src="https://img.shields.io/badge/Javascript-282C34?logo=javascript"></code>
-<code><img height="30" src="https://img.shields.io/badge/HTML5-282C34?logo=html5"></code>
+<code><img height="30" src="https://img.shields.io/badge/HTML5-282C34?logo=html5"></code> <br>
 <code><img height="30" src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6"></code>
 <code><img height="30" src="https://img.shields.io/badge/React-282C34?logo=react"></code>
 <code><img height="30" src="https://img.shields.io/badge/Oracle-282C34?logo=oracle&logoColor=darkred"></code>
