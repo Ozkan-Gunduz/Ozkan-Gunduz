@@ -5,7 +5,7 @@
 🏠 I’m currently living at Istanbul, Turkey. <br/>
 👨‍💻 I’m currently working as a Senior Software Developer.<br/>
 🔭 I’m currently working on creating microservices for financial/banking applications.<br/>
-🌱 I’m currently trying to improve my React knowledge.<br/>
+🌱 I’m currently trying to improve my Frontend knowledge.<br/>
 🏀 I’m a huge NBA/Basketball fan. <br/>
 🧙‍ I'm also a Hearthstone Battlegrounds player.
 
