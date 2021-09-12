@@ -37,4 +37,3 @@
 &nbsp;<a href="mailto:ozkangunduz87@gmail.com"><img height="30" src="https://img.shields.io/badge/Mail-282C34?logo=gmail"></a>
 &nbsp;<a href="https://www.instagram.com/ozkangunduz_"><img height="30" src="https://img.shields.io/badge/Instagram-282C34?logo=instagram"></a>
 &nbsp;<a href="https://open.spotify.com/user/badabimbadabum"><img height="30" src="https://img.shields.io/badge/Spotify-282C34?logo=spotify"></a>
-&nbsp;<a href="https://www.reddit.com/user/Boxcarracertr"><img height="30" src="https://img.shields.io/badge/Reddit-282C34?logo=reddit"></a>
